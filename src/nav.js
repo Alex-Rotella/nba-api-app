@@ -4,7 +4,7 @@ function Nav()
   return(
       <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">NBA Search</a>
+          <a class="navbar-brand" href="/">NBA Search</a>
           
           <div>
             <ul class="navbar-nav me-auto">

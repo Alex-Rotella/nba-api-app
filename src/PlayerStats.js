@@ -69,7 +69,7 @@ handleChange = (event) => {
           type="text"
           value={this.state.value}
           onChange={this.handleChange}
-          placeholder="players name"
+          placeholder="Players Name"
          />
        </label>
 

@@ -18,7 +18,6 @@ class Home extends Component {
                 <li>Player vs Player comparison</li>
                 <li>Player vs Team statistics</li>
                 <li>Match up statistics</li>
-                <li></li>
             </ul>
         </p>
 
